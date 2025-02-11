@@ -5,6 +5,9 @@ This project extracts and analyzes YouTube channel data using Python. It leverag
 
 #### Features
 Fetches channel statistics using YouTube API
+
 Extracts video details, including views, likes, and comments
+
 Analyzes trends in video engagement
+
 Generates visualizations to display key insights
